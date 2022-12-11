@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-About_Page">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="About_Page" data-name="About Page" clip-path="url(#clip-About_Page)">
+    <rect width="1920" height="1080" fill="#fff"/>
+    <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(72 87)" fill="#fff" stroke="#000" stroke-width="1">
+      <ellipse cx="44.5" cy="50" rx="44.5" ry="50" stroke="none"/>
+      <ellipse cx="44.5" cy="50" rx="44" ry="49.5" fill="none"/>
+    </g>
+    <text id="L" transform="translate(105 100)" fill="#707070" stroke="#000" stroke-width="1" font-size="45" font-family="SegoeUI, Segoe UI"><tspan x="0" y="49">L</tspan></text>
+    <g id="Path_16" data-name="Path 16" transform="translate(776 87)" fill="#fff">
+      <path d="M 965.5000610351563 99.5 L 247.1723327636719 99.5 L 158.7673950195313 99.5 L 0.5000669956207275 99.5 L 0.5000669956207275 0.5 L 965.5000610351563 0.5 L 965.5000610351563 99.5 Z" stroke="none"/>
+      <path d="M 0.99993896484375 1 L 0.99993896484375 99 L 158.7672729492188 99 L 247.17236328125 99 L 964.9999389648438 99 L 964.9999389648438 1 L 164.48046875 1 L 0.99993896484375 1 M -6.103515625e-05 0 L 164.48046875 0 L -6.103515625e-05 0 L 965.9999389648438 0 L 965.9999389648438 100 C 965.9999389648438 100 515.8748779296875 100 247.17236328125 100 C 214.717529296875 100 184.8512573242188 100 158.7672729492188 100 C 15.465087890625 100 -13.6766357421875 100 -13.6766357421875 100 L -6.103515625e-05 100 L -6.103515625e-05 0 Z" stroke="none" fill="#707070"/>
+    </g>
+    <line id="Line_21" data-name="Line 21" y2="100" transform="translate(1285.5 87.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_23" data-name="Line 23" y2="103" transform="translate(1022.5 87.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_24" data-name="Line 24" x2="2" y2="103" transform="translate(1530.5 84.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_25" data-name="Line 25" y1="5" x2="1920" transform="translate(0.5 235.5)" fill="none" stroke="#000" stroke-width="1"/>
+    <line id="Line_66" data-name="Line 66" x2="1920" y2="4" transform="translate(-11.5 762.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <g id="Rectangle_16" data-name="Rectangle 16" transform="translate(72 791)" fill="#1e1919" stroke="#707070" stroke-width="1">
+      <rect width="227" height="42" stroke="none"/>
+      <rect x="0.5" y="0.5" width="226" height="41" fill="none"/>
+    </g>
+    <line id="Line_42" data-name="Line 42" x2="174" transform="translate(72.5 867.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_43" data-name="Line 43" y1="3" x2="174" transform="translate(72.5 919.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_44" data-name="Line 44" y1="2" x2="174" transform="translate(72.5 893.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_45" data-name="Line 45" x2="1191" y2="2" transform="translate(72.5 1024.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_46" data-name="Line 46" x2="430" y2="2" transform="translate(72.5 1055.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(1408 1007)" fill="#fff" stroke="#707070" stroke-width="1">
+      <ellipse cx="37" cy="32" rx="37" ry="32" stroke="none"/>
+      <ellipse cx="37" cy="32" rx="36.5" ry="31.5" fill="none"/>
+    </g>
+    <g id="Ellipse_3" data-name="Ellipse 3" transform="translate(1561 1007)" fill="#fff" stroke="#707070" stroke-width="1">
+      <ellipse cx="38" cy="32" rx="38" ry="32" stroke="none"/>
+      <ellipse cx="38" cy="32" rx="37.5" ry="31.5" fill="none"/>
+    </g>
+    <g id="Ellipse_4" data-name="Ellipse 4" transform="translate(1722 1007)" fill="#fff" stroke="#707070" stroke-width="1">
+      <ellipse cx="37" cy="32" rx="37" ry="32" stroke="none"/>
+      <ellipse cx="37" cy="32" rx="36.5" ry="31.5" fill="none"/>
+    </g>
+    <text id="f" transform="translate(1436.5 1007.5)" fill="#707070" stroke="#000" stroke-width="1" font-size="45" font-family="SegoeUI, Segoe UI"><tspan x="0" y="49">f</tspan></text>
+    <line id="Line_53" data-name="Line 53" y1="34" x2="168" transform="translate(299.5 833.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <text id="List_of_partners" data-name="List of partners" transform="translate(476 823)" fill="#707070" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="22">List of partners</tspan></text>
+    <path id="Path_19" data-name="Path 19" d="M0,0-6.7,8.931,3,15" transform="translate(292.5 861.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <g id="Rectangle_17" data-name="Rectangle 17" transform="translate(59 312)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="352" height="413" stroke="none"/>
+      <rect x="0.5" y="0.5" width="351" height="412" fill="none"/>
+    </g>
+    <line id="Line_82" data-name="Line 82" x2="339" y2="413" transform="translate(72.5 312.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_83" data-name="Line 83" x1="352" y2="413" transform="translate(59.5 312.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <g id="Rectangle_18" data-name="Rectangle 18" transform="translate(668 312)" fill="#676060" stroke="#707070" stroke-width="1">
+      <rect width="371" height="90" stroke="none"/>
+      <rect x="0.5" y="0.5" width="370" height="89" fill="none"/>
+    </g>
+    <line id="Line_84" data-name="Line 84" y1="3" x2="842" transform="translate(668.5 446.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_85" data-name="Line 85" x2="842" transform="translate(668.5 540.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_86" data-name="Line 86" x2="371" y2="3" transform="translate(668.5 637.5)" fill="none" stroke="#707070" stroke-width="1"/>
+  </g>
+</svg>

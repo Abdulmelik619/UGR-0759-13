@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-Site_Diagram">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Site_Diagram" data-name="Site Diagram" clip-path="url(#clip-Site_Diagram)">
+    <rect width="1920" height="1080" fill="#fff"/>
+    <g id="Rectangle_1" data-name="Rectangle 1" transform="translate(805 43)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="310" height="132" stroke="none"/>
+      <rect x="0.5" y="0.5" width="309" height="131" fill="none"/>
+    </g>
+    <g id="Rectangle_3" data-name="Rectangle 3" transform="translate(1417 322)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="261" height="115" stroke="none"/>
+      <rect x="0.5" y="0.5" width="260" height="114" fill="none"/>
+    </g>
+    <g id="Rectangle_5" data-name="Rectangle 5" transform="translate(1218 379)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="1" height="1" stroke="none"/>
+      <rect x="0.5" y="0.5" fill="none"/>
+    </g>
+    <g id="Rectangle_6" data-name="Rectangle 6" transform="translate(1009 322)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="280" height="115" stroke="none"/>
+      <rect x="0.5" y="0.5" width="279" height="114" fill="none"/>
+    </g>
+    <g id="Rectangle_7" data-name="Rectangle 7" transform="translate(133 322)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="276" height="115" stroke="none"/>
+      <rect x="0.5" y="0.5" width="275" height="114" fill="none"/>
+    </g>
+    <g id="Rectangle_8" data-name="Rectangle 8" transform="translate(581 322)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="271" height="115" stroke="none"/>
+      <rect x="0.5" y="0.5" width="270" height="114" fill="none"/>
+    </g>
+    <g id="Rectangle_9" data-name="Rectangle 9" transform="translate(136 552)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="271" height="126" stroke="none"/>
+      <rect x="0.5" y="0.5" width="270" height="125" fill="none"/>
+    </g>
+    <g id="Rectangle_10" data-name="Rectangle 10" transform="translate(136 822)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="261" height="117" stroke="none"/>
+      <rect x="0.5" y="0.5" width="260" height="116" fill="none"/>
+    </g>
+    <line id="Line_2" data-name="Line 2" x2="683" y2="2" transform="translate(864.5 269.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_3" data-name="Line 3" y2="29" transform="translate(960.5 242.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <path id="Path_7" data-name="Path 7" d="M0,70" transform="translate(1547.5 271.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <path id="Path_5" data-name="Path 5" d="M0,51" transform="translate(1149.5 271.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_6" data-name="Line 6" x1="593" transform="translate(271.5 271.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_7" data-name="Line 7" y1="41" transform="translate(271.5 271.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_11" data-name="Line 11" y1="67" transform="translate(960.5 175.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <text id="Home_Page" data-name="Home Page" transform="translate(882 78)" fill="#707070" font-size="35" font-family="SegoeUI, Segoe UI"><tspan x="0" y="38">Home Page</tspan></text>
+    <text id="About_Us" data-name="About Us" transform="translate(1486 382)" fill="#707070" font-size="35" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">About Us</tspan></text>
+    <text id="Contact_" data-name="Contact " transform="translate(1058 391)" fill="#707070" font-size="35" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Contact </tspan></text>
+    <text id="Sign_Up" data-name="Sign Up" transform="translate(665 391)" fill="#707070" font-size="35" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Sign Up</tspan></text>
+    <text id="Login" transform="translate(217 391)" fill="#707070" font-size="35" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Login</tspan></text>
+    <path id="Path_1" data-name="Path 1" d="M155.078,3H0" transform="translate(426.422 376.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <path id="Path_2" data-name="Path 2" d="M0,0-5.683,6.675,0,13" transform="translate(424.5 373.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_13" data-name="Line 13" transform="translate(269.5 314.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <path id="Path_3" data-name="Path 3" d="M0,0S3.444,6.339,6.944,6.339,14,0,14,0" transform="translate(263.5 314.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_14" data-name="Line 14" y2="42" transform="translate(711.5 270.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <path id="Path_4" data-name="Path 4" d="M0,0,7.2,5.321,14,0" transform="translate(704.5 313.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_15" data-name="Line 15" y2="43" transform="translate(1149.5 269.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <path id="Path_6" data-name="Path 6" d="M0,0S4.365,5.475,8.615,5.475,17,0,17,0" transform="translate(1140.5 314.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_16" data-name="Line 16" y2="42" transform="translate(1547.5 270.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <path id="Path_8" data-name="Path 8" d="M0,0,8.685,5.415,17,0" transform="translate(1538.5 314.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_17" data-name="Line 17" y2="93" transform="translate(266.5 438.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_18" data-name="Line 18" y2="121" transform="translate(266.5 678.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <path id="Path_11" data-name="Path 11" d="M0,0,11.3,9.072l5.918-4.589L23,0" transform="translate(254.5 536.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <path id="Path_12" data-name="Path 12" d="M0,0S6.243,11.051,12.493,11.051,25,0,25,0" transform="translate(253.5 805.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <path id="Path_14" data-name="Path 14" d="M0,0,11.3,9.072l5.918-4.589L23,0" transform="translate(254.5 536.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <path id="Path_15" data-name="Path 15" d="M0,0,11.3,9.072l5.918-4.589L23,0" transform="translate(254.5 536.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <text id="Subject" transform="translate(166.5 589.5)" fill="#707070" stroke="#000" stroke-width="1" font-size="45" font-family="SegoeUI, Segoe UI"><tspan x="0" y="49">Subject</tspan></text>
+    <text id="Chapter" transform="translate(167.5 857.5)" fill="#707070" stroke="#000" stroke-width="1" font-size="45" font-family="SegoeUI, Segoe UI"><tspan x="0" y="49">Chapter</tspan></text>
+  </g>
+</svg>
