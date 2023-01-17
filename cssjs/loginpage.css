@@ -1,0 +1,108 @@
+* {
+    text-decoration: none;
+    list-style-type: none;
+
+}
+body {
+    background-color: rgb(0, 29, 43);
+    /*text-align: center;*/
+    /*color: aliceblue;*/
+    color: rgb(13, 13, 14);
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.main__li__label, .main__li__input, .main__a, .main__p {
+    display: block;
+}
+.main {
+    background-color: rgb(255, 255, 255);
+    width: 22em;
+    position: relative;
+    top: 7em;
+}
+.main__h1 {
+    text-align: center;
+    background-color: rgb(4, 48, 15);
+    position: relative;
+    bottom: 1em;
+    color: aliceblue;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    
+}
+.main__li__input {
+    height: 2em;
+    width: 20em;
+    margin-bottom: 1em;
+}
+.main__li__label {
+    font-size: 1.2em;
+}
+.main__flex {
+    display: flex;
+    justify-content: center;
+}
+.main__a {
+    text-align: center;
+}
+.main__li--a {
+    width: 17em;
+    height: 2em;
+    background-color: rgb(2, 49, 6);
+    text-align: center;
+    border-radius: 1em;
+}
+.main__li__a {
+    position: relative;
+    top: .4em;
+    color: antiquewhite;
+}
+@media screen and (max-width: 380px) {
+    .main {
+        background-color: rgb(255, 255, 255);
+        width: 15em;
+        position: relative;
+        top: 7em;
+    }
+    .main__h1 {
+        text-align: center;
+        background-color: rgb(4, 48, 15);
+        position: relative;
+        bottom: 1em;
+        color: aliceblue;
+        padding-top: 0.5em;
+        padding-bottom: 0.5em;
+        
+    }
+    .main__li__input {
+        height: 1em;
+        width:12em;
+        margin-bottom: 1em;
+    }
+    .main__li__label {
+        font-size: 1em;
+    }
+    .main__flex {
+        display: flex;
+        justify-content: center;
+    }
+    .main__a {
+        text-align: center;
+    }
+    .main__li--a {
+        width: 10em;
+        height: 2em;
+        background-color: rgb(2, 49, 6);
+        text-align: center;
+        border-radius: 1em;
+    }
+    .main__li__a {
+        position: relative;
+        top: .4em;
+        color: antiquewhite;
+    }
+}
