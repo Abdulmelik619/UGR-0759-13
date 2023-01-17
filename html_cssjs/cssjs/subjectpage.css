@@ -1,0 +1,254 @@
+* {
+    text-decoration: none;
+    margin: auto;
+      overflow-x: hidden;
+}
+body  {
+    margin: 0;
+    padding: 0;
+}
+.header {
+    display: flex;
+    align-items: center;/*#000725  rgb(63, 63, 94)*/
+    background-color: #000725;
+    /*position: Absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    margin-bottom: 3em;*/
+    height: 3em;
+    /*margin-bottom: 3em;*/
+    position: fixed;
+    right: 0;
+    left: 0;
+    z-index: 100;
+    list-style-type: none;
+}
+.menu {
+    display: flex;
+ }
+ .header__logo {
+    margin-right: auto;
+    height: 3em;
+    width: 3em;
+    margin-left: 1.5em;
+}
+.menu {
+    margin: 1em;
+}
+.menu__item {
+color: aliceblue;
+margin: 1em;
+}
+.menu__item--state:link {
+    color: white;
+  }
+  .menu__item--state:visited {
+    color: rgb(230, 184, 184);
+  }
+  .menu__item--state:hover {
+    color: hotpink;
+  }
+  .menu__item--state:active {
+    color: blue;
+  }
+.main {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto auto;
+    padding-top: 6em;
+    z-index: 2;
+    background-image: url(background2.jpg);
+    background-size: cover;
+    color: aliceblue;
+    position: relative;
+
+}
+.main1 {
+    grid-row-start: 1;
+    grid-row-end: 2;
+    grid-column-start: 1;
+    grid-column-end: 2;
+    background-color: #1a0f00;
+    color: aliceblue;
+    width: 20em;
+    margin-left: 2em;
+    padding-left: 1.5em;
+    font-size: 1.5em;
+    border-radius: 2em;
+    font-style: oblique;
+}
+.main__image {
+    grid-row-start: 1;
+    grid-row-end: 2;
+    grid-column-start: 2;
+    grid-column-end: 3;   
+}
+.main__image__img {
+    width: 40em;
+    height: auto;
+}
+.main2 {
+    grid-row-start: 2;
+    grid-row-end: 3;
+    grid-column-start: 1;
+    grid-column-end: 2;
+    margin-left: 4em;
+    background-color: #040116;
+    width: 15em;
+    height: 15em;
+    margin-top: 2em;
+    margin-bottom: 3em;
+    padding-left: 2em;
+    border-radius: 2em;
+    font-size: 1.5em;
+    font-style: oblique;
+}
+.main2__li__a {
+    color: hotpink;
+}
+ .main3 {
+    grid-row-start: 2;
+    grid-row-end: 3;
+    grid-column-start: 2;
+    grid-column-end: 3;
+    margin-top: 2em;
+    font-size: 1.5em;
+    list-style-type: disc;
+    font-style: oblique;
+    color: rgb(255, 255, 255);
+ }
+.main3__li {
+    margin-bottom: 0.5em;
+}
+  .footer {
+    background-color: #000000;
+    /*background-image: url(background.jpg);
+    background-size: cover;*/
+    color: rgb(255, 255, 255);
+    padding-left: 1em;
+    position: absolute;
+    left: 0;
+    right: 0;
+    list-style-type: none;
+  }
+  .footer__h3 {
+    font-size: 0.8em;
+    padding: 0;
+    margin: 0;
+  }
+  .footer__li {
+    font-size: 0.8em;
+    position: relative;
+    bottom: 1em;
+    right: 3em;
+    list-style-type: none;
+  
+  }
+   .div4 {
+    display: flex;
+    font-size: 1em;
+    gap: 5em;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    list-style-type: none;
+   }
+   .div4__photo {
+    height: 1.2em;
+    width: 1.2em;
+    border-radius: 3px;
+   }
+   .div5 {
+    position: relative;
+    left: 5em;
+    margin-right: 3em;
+    list-style-type: none;
+   }
+   .maindiv {
+    display: flex;
+    margin-left: 5em;
+  
+   }
+  .footer__li--link {
+    list-style-type: none;
+    position: relative;
+    right: 2em;
+    bottom: 0.5em;
+  }
+  @media screen  and (max-width: 1280px) {
+    * {
+      margin: auto;
+      overflow-x: hidden;
+      padding: 0;
+    }
+    .main1  {
+      grid-row-start: 1;
+      grid-row-end: 2;
+      grid-column-start: 2;
+      grid-column-end: 3;
+      width: 100%;
+  }
+  .main__image {
+    grid-row-start: 1;
+    grid-row-end: 2;
+    grid-column-start: 1;
+    grid-column-end: 2;
+    
+}
+.main__image {
+  width: 100%;
+}
+
+  }
+  
+  @media screen  and (max-width: 720px){
+    * {
+      
+      margin: auto;
+      overflow-x: hidden;
+    }
+    
+    .maindiv {
+        flex-direction: column;
+        /*margin: 0;*/
+        width: ;
+      }
+      .div4 {
+        flex-direction: column;
+        gap: 0;
+      }
+      .div4__p {
+        /*margin: 0;*/
+        
+      }
+      .main1, .main2 {
+        display: flex;
+        flex-direction: column;
+        padding: 0;
+        border-radius: 0;
+      }
+
+      .main1, .main2, .main__image__img, .main3 {
+        width: 100vw;
+        margin: 0;
+      }
+      .div5 {
+        /*margin-right: 0;*/
+        position: static;
+      }
+      .footer {
+      padding-left: 0;
+      }
+      .div5 {
+        width: 100%;
+
+      }
+      
+      .footer__li--link  {
+        position: static;
+      }
+      .footer__li {
+        position: static;
+      }
+}

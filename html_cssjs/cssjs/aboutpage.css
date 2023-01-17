@@ -1,0 +1,140 @@
+* {
+    text-decoration: none;
+    list-style-type: none;
+    
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.footer {
+    background-color: #000000;
+    /*background-image: url(background.jpg);
+    background-size: cover;*/
+    color: rgb(255, 255, 255);
+    padding-left: 1em;
+    position: absolute;
+    left: 0;
+    right: 0;
+  }
+  .footer__h3 {
+    font-size: 0.8em;
+    padding: 0;
+    margin: 0;
+  }
+  .footer__li {
+    font-size: 0.8em;
+    position: relative;
+    bottom: 1em;
+    right: 3em;
+  
+  }
+   .div4 {
+    display: flex;
+    font-size: 1em;
+    gap: 5em;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+   }
+   .div4__photo {
+    height: 1.2em;
+    width: 1.2em;
+    border-radius: 3px;
+   }
+   .div5 {
+    position: relative;
+    left: 5em;
+    margin-right: 3em;
+   }
+   .maindiv {
+    display: flex;
+    margin-left: 5em;
+  
+   }
+  .footer__li--link {
+    position: relative;
+    right: 3em;
+    bottom: 1em;
+  }
+  .main {
+    display: flex;
+    justify-content: center;
+    background-image: url(background2.jpg);
+    background-size: cover;
+    padding-top: 5em;
+}
+  .main2 {
+    margin-top: 1em;
+    background-color: #1a0f00;
+    width: 25em;
+    color: white;
+    margin-left: 2em;
+    margin-bottom: 1em;
+    padding: 1em;
+    color: rgb(250, 250, 247);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.main2__h {
+    color: rgb(222, 229, 235);
+}
+.main2__li {
+    position: relative;
+    right: 2em;
+    bottom: 1em;
+}
+.main1 {
+    margin-top: 1em;
+    margin-bottom: 2em;
+}
+@media screen  and (max-width: 720px){
+    * {
+      
+      margin: auto;
+      overflow-x: hidden;
+    }
+    .main {
+      flex-direction: column;
+    }
+    .main2 {
+      width: 100vw;
+      margin: 0;
+    }
+    .main1__photo {
+      width: 100vw;
+    }
+    .maindiv {
+        flex-direction: column;
+        /*margin: 0;*/
+        width: ;
+      }
+      .div4 {
+        flex-direction: column;
+        gap: 0;
+      }
+      .div4__p {
+        /*margin: 0;*/
+        
+      }
+      .div5 {
+        /*margin-right: 0;*/
+        position: static;
+      }
+      .footer {
+      padding-left: 0;
+      }
+      .div5 {
+        width: 100%;
+
+      }
+      
+      .footer__li--link  {
+        position: static;
+      }
+      .footer__li {
+        position: static;
+      }
+      
+}
